@@ -2,7 +2,7 @@
 
 It was easy to create a heart rate service and to connect to it with [nrfConnect](https://apps.apple.com/se/app/nrf-connect/id1054362403)
 
-I started with implementing the bare minimum. 
+I started with implementing the bare minimum.
 Since most parts of the hrm specifications are optional, the first step was to do these parts.
 
 ```
